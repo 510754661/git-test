@@ -6,7 +6,9 @@ public class FirstClass {
         System.out.println("哈哈哈");
     }
 
+    //hello test
     public void test(){
         int i=0;
+        System.out.println(i);
     }
 }
