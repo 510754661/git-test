@@ -5,4 +5,8 @@ public class FirstClass {
         System.out.println(123);
         System.out.println("哈哈哈");
     }
+
+    public void test(){
+        int i=0;
+    }
 }
